@@ -12,6 +12,12 @@ To design and verify a CMOS inverter using Verilog HDL and Cadence tools.
 ## Design Description
 The CMOS inverter is implemented using Verilog. It produces the logical inversion of the input signal.
 
+
+## Diagrams
+
+![CMOS_VLSI_GITHUB_page-0001](https://github.com/user-attachments/assets/4ef03390-d329-4eaa-bff4-62ddcddfb915)
+
+
 ## Simulation Procedure
 1. Created Verilog design file (inverter.v)  
 2. Created testbench (inverter_tb.v)  
