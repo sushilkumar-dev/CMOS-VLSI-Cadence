@@ -33,14 +33,22 @@ The CMOS inverter is implemented using Verilog. It produces the logical inversio
 
 ### Waveform
 
+<img width="624" height="568" alt="Screenshot from 2026-03-28 13-05-56" src="https://github.com/user-attachments/assets/223db4ef-c2c8-4662-995f-62e6c36c55b4" />
+
 
 ### Area Report
+
+<img width="624" height="568" alt="report_area" src="https://github.com/user-attachments/assets/37d66ce6-6050-420b-99dc-f95d4afb6ee6" />
 
 
 ### Power Report
 
+<img width="624" height="568" alt="report_power" src="https://github.com/user-attachments/assets/5f2ab031-233f-4fa4-891a-1a34b979ed81" />
+
 
 ### Gate Count Report
+
+<img width="624" height="568" alt="report_gates" src="https://github.com/user-attachments/assets/51af92b3-3390-4bae-ad6f-6f3cc1871fcc" />
 
 
 ## Observations
