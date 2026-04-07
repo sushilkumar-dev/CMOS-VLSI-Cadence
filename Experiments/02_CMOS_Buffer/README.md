@@ -12,6 +12,11 @@ To design and verify a CMOS buffer using Verilog HDL and Cadence tools.
 ## Design Description
 The CMOS buffer is implemented using Verilog. It transfers the input signal directly to the output without inversion, providing signal strength and isolation.
 
+## Diagram
+
+![CMOS_VLSI_GITHUB_page-0001(2)](https://github.com/user-attachments/assets/7fba5820-5dfc-47d6-875c-1fd66fd2a5b6)
+
+
 ## Simulation Procedure
 1. Created Verilog design files (behavioral and gate-level)  
 2. Created testbenches for both models  
